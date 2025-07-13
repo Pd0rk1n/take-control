@@ -1,2 +1,3 @@
 # take-control
-install my settings
+install my settings thank you to erik dubois
+
