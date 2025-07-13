@@ -1,5 +1,5 @@
 # take-control
-Thank you to Erik Dubois
+Thank you Erik Dubois.
 
 <h1 align="center">
  <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxw.png">
